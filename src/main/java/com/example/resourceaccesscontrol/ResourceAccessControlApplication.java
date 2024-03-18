@@ -10,4 +10,6 @@ public class ResourceAccessControlApplication {
         SpringApplication.run(ResourceAccessControlApplication.class, args);
     }
 
+    /* fdf
+     */
 }
